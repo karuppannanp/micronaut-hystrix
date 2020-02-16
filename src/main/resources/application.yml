@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: micronaut-hystrix
+  server:
+    port: 8080
